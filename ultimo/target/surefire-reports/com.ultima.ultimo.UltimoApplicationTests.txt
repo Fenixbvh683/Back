@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ultima.ultimo.UltimoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.804 s - in com.ultima.ultimo.UltimoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.652 s - in com.ultima.ultimo.UltimoApplicationTests
