@@ -4,6 +4,6 @@
 
 FROM amazoncorrecto:8-alphine-jdk
 
-copy target/SpringBoot-0.0.1-SNAPSHOT.jar app.jar
+copy target/ultimo-0.0.1-SNAPSHOT.jar app.jar
 
 ENTRYPOINT ["java","-jar","/app.jar"]
